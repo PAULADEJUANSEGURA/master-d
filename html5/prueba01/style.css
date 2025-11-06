@@ -1,0 +1,20 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0px auto;
+}
+
+.header {
+    background-color: #131141;
+    margin: 0px auto;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 , h2 {color: #728FF3;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+}
