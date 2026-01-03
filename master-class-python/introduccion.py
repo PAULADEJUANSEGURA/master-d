@@ -35,6 +35,6 @@ print("División redondeada:", division_redondeada)
 division_redondeada_con_round = round(division, 2)
 print("División redondeada con round:", division_redondeada_con_round)
 
-#Entrada de datis del usuario
+#Entrada de datos del usuario
 nombre_usuario = input("Por favor, ingresa tu nombre: ")
 print("Hola,", nombre_usuario, "! Bienvenido a la clase de Python.") 
